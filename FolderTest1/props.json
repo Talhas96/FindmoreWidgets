@@ -1,0 +1,16 @@
+{
+  "name": "Normal Card",
+  "author": "Gabriel Ferreira",
+  "email": "gabriel.ferreira@findmore.eu",
+  "company": "Findmore Solutions",
+  "createdOn": "",
+  "componentProps": {
+    "cardValue": { "type": "request", "requestId": "" },
+    "cardDescription": {
+      "type": "string",
+      "value": "",
+      "style": { "backgroundColor": "", "position": "" },
+      "cssClass": ""
+    }
+  }
+}
